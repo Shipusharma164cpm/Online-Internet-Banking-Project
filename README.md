@@ -1,7 +1,56 @@
-# Online Internet Banking Application
+# Online Internet Banking Application - Manual Testing Project
 
-This repository contains testing artifacts prepared during manual testing of an online banking application.
+## Project Overview
 
-The application allows customers to manage accounts, transfer funds, add beneficiaries and view transaction history.
+This repository contains testing artifacts prepared during manual testing of an Online Internet Banking Application.
 
-Testing was performed on customer-facing modules to verify business functionality and identify defects before release.
+The application allows customers to perform banking operations such as account login, fund transfer, beneficiary management, transaction history review and password management.
+
+## Modules Tested
+
+- Customer Login
+- Fund Transfer
+- Beneficiary Management
+- Transaction History
+- Change Password
+
+## Testing Activities
+
+- Requirement Analysis
+- Test Scenario Preparation
+- Test Case Design
+- Functional Testing
+- Defect Reporting
+- RTM Preparation
+- Test Summary Reporting
+
+## Test Artifacts
+
+| Document | Description |
+|-----------|------------|
+| Test_Scenarios.md | High level test scenarios |
+| Test_Cases.md | Detailed test cases |
+| Defect_Log.md | Defects identified during testing |
+| RTM.md | Requirement Traceability Matrix |
+| Test_Summary_Report.md | Test execution summary |
+
+## Test Execution Summary
+
+- Test Cases Designed: 20
+- Test Cases Executed: 18
+- Passed: 14
+- Failed: 3
+- Blocked: 1
+- Defects Logged: 8
+
+## Environment
+
+- Windows 11
+- Google Chrome
+- Manual Testing
+
+## Author
+
+Shipu Sharma
+
+MCA Graduate | Software Testing | Manual Testing | Selenium | API Testing
