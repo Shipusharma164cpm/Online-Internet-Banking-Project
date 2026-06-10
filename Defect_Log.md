@@ -92,3 +92,59 @@ Low
 
 Status:
 Closed
+---
+
+## BUG_006
+
+Summary:
+Date filter does not return accurate transaction records.
+
+Module:
+Transaction History
+
+Severity:
+Medium
+
+Priority:
+Medium
+
+Status:
+Open
+
+---
+
+## BUG_007
+
+Summary:
+Beneficiary can be added without IFSC code.
+
+Module:
+Beneficiary Management
+
+Severity:
+High
+
+Priority:
+High
+
+Status:
+Open
+
+---
+
+## BUG_008
+
+Summary:
+Weak password accepted during password change.
+
+Module:
+Change Password
+
+Severity:
+Medium
+
+Priority:
+Medium
+
+Status:
+Closed
