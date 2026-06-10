@@ -47,3 +47,29 @@ Completed
 
 Remarks:
 Application is stable for UAT after fixing high priority defects.
+Test Cases Designed:
+20
+
+Test Cases Executed:
+18
+
+Passed:
+14
+
+Failed:
+3
+
+Blocked:
+1
+
+Defects Logged:
+8
+
+High Severity Defects:
+2
+
+Medium Severity Defects:
+4
+
+Low Severity Defects:
+2
