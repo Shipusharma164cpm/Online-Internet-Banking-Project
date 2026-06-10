@@ -94,3 +94,88 @@ Transaction rejected with proper message.
 
 Status:
 Pass
+---
+
+## TC_BEN_001
+
+Scenario:
+Verify addition of new beneficiary with valid details.
+
+Expected Result:
+Beneficiary should be added successfully.
+
+Actual Result:
+Beneficiary added successfully.
+
+Status:
+Pass
+
+---
+
+## TC_BEN_002
+
+Scenario:
+Verify duplicate beneficiary account number validation.
+
+Expected Result:
+System should prevent duplicate beneficiary addition.
+
+Actual Result:
+Duplicate beneficiary added successfully.
+
+Status:
+Fail
+
+Defect ID:
+BUG_002
+
+---
+
+## TC_TXN_001
+
+Scenario:
+Verify transaction history for last 30 days.
+
+Expected Result:
+Transactions should be displayed correctly.
+
+Actual Result:
+Transactions displayed successfully.
+
+Status:
+Pass
+
+---
+
+## TC_PWD_001
+
+Scenario:
+Verify password change functionality.
+
+Expected Result:
+Password should be updated successfully.
+
+Actual Result:
+Password updated successfully.
+
+Status:
+Pass
+
+---
+
+## TC_PWD_002
+
+Scenario:
+Verify password complexity validation.
+
+Expected Result:
+System should reject weak password.
+
+Actual Result:
+Weak password accepted.
+
+Status:
+Fail
+
+Defect ID:
+BUG_005
